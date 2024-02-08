@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 export default function AboutMe() {
     return (
         <div className="about-me">
@@ -13,8 +15,8 @@ export default function AboutMe() {
                     built in my four month journey at Per Scholas and what I intend to build in the upcoming <br/>
                     months and years.<br/> <br/>
                     Take a gander and leave me some feedback!<br/> <br/> <br/>
-                    <a href= "https://github.com/rabsickles123">Github</a> <br/> <br/>
-                    <a href = "www.linkedin.com/in/rabiagrewal">Linked In</a>
+                    <Link to = "https://github.com/rabsickles123">Github</Link> <br/> <br/>
+                    <Link to = "www.linkedin.com/in/rabiagrewal">Linked In</Link>
                 </p>
             </div>
         </div>

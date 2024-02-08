@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 export default function MyProjects() {
     return (
         <div className="projects">
@@ -6,8 +8,8 @@ export default function MyProjects() {
                    made using HTML, CSS, and vanilla Javascript. Kind of incredible if <br/>
                    thought about. How much these technologies can accomplish with DOM <br/>
                    manipulation...<br/> <br/>
-                   <a href = "https://rabsickles123.github.io/Project-1-Dom-Game/">Rock Paper Scissors</a> <br/> <br/>
-                   <a href = "https://github.com/rabsickles123/Project-1-Dom-Game?tab=readme-ov-file">The Code</a>
+                   <Link to = "https://rabsickles123.github.io/Project-1-Dom-Game/">Rock Paper Scissors</Link> <br/> <br/>
+                   <Link to = "https://github.com/rabsickles123/Project-1-Dom-Game?tab=readme-ov-file">The Code</Link>
                 </p>
             </div>
             <div className = "second-project">
@@ -17,8 +19,8 @@ export default function MyProjects() {
                    load and use. Not to mention the awesomeness that is APIs! Using web data to <br/>
                    create fun and cool apps was awesome and so I built a simple weather app that <br/>
                    gives real time weather in any city in the world. <br/> <br/>
-                   <a href = "https://rabsweatherapp.netlify.app/">Weather App</a> <br/> <br/>
-                   <a href = "https://github.com/rabsickles123/Mod2Project-WeatherApp?tab=readme-ov-file">The Code</a>
+                   <Link to = "https://rabsweatherapp.netlify.app/">Weather App</Link> <br/> <br/>
+                   <Link to = "https://github.com/rabsickles123/Mod2Project-WeatherApp?tab=readme-ov-file">The Code</Link>
 
                 </p>
             </div>
@@ -30,8 +32,8 @@ export default function MyProjects() {
                     connects to MongoDB that stores users data and requires authentication to use the <br/>
                     mood tracker/diary portion of the app. 
                     <br/> <br/>
-                   <a href = "https://weatherdiary-frontend.onrender.com/">Weather Mood Tracker</a> <br/> <br/>
-                   <a href = "https://github.com/rabsickles123/Mod3Project">The Code</a>
+                   <Link to = "https://weatherdiary-frontend.onrender.com/">Weather Mood Tracker</Link> <br/> <br/>
+                   <Link to = "https://github.com/rabsickles123/Mod3Project">The Code</Link>
 
                 </p>
             </div>
