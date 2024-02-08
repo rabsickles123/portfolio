@@ -14,6 +14,7 @@ export default function AboutMe() {
                     months and years.<br/> <br/>
                     Take a gander and leave me some feedback!<br/> <br/> <br/>
                     <a href= "https://github.com/rabsickles123">Github</a>
+                    <a href = "www.linkedin.com/in/rabiagrewal">Linked In</a>
                 </p>
             </div>
         </div>
