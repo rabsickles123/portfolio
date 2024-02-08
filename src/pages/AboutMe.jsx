@@ -13,7 +13,7 @@ export default function AboutMe() {
                     built in my four month journey at Per Scholas and what I intend to build in the upcoming <br/>
                     months and years.<br/> <br/>
                     Take a gander and leave me some feedback!<br/> <br/> <br/>
-                    <a href= "https://github.com/rabsickles123">Github</a>
+                    <a href= "https://github.com/rabsickles123">Github</a> <br/> <br/>
                     <a href = "www.linkedin.com/in/rabiagrewal">Linked In</a>
                 </p>
             </div>
